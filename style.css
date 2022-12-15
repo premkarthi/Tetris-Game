@@ -1,0 +1,11 @@
+body{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#tetris{ 
+    box-shadow: 0px 0px 4px 1px #b9b9b9;
+    background: rgb(234, 234, 234);
+}
